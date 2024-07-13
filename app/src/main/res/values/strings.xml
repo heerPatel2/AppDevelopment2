@@ -1,0 +1,153 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="res1">24*7 Healthcare</string>
+    <string name="res2">Register For New User</string>
+    <string name="r1">Login</string>
+    <string name="r2">Password</string>
+    <string name="u1">Username</string>
+    <string name="l1">Login</string>
+    <string name="todo">TODO</string>
+    <string name="_24_7_services">24*7 Services</string>
+    <string name="sample">TODO</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+
+    //Grocery 1
+    <string name="camera">
+        \nBusiness Summary - Leading Indian retain chain in wide product range for consumers\n
+        \nContacts - 1800102738\n
+        \nBusiness Hours - Open Until 10:00 PM\n
+        \nAddress - Girikendra, Waghodia Road, Vadodara - 390019\n
+        \nYear of Establishment - 2019\n
+        \nMode of Payment - Visa/Master card
+        \nCash\UPI\n
+        \nWebsite - www.relianceretail.com
+    </string>
+
+    //Grocery 2
+    <string name="recyclerview">
+        \n\nContacts - 09016328580\n
+        \nBusiness Hours - Open Until 11:00 PM\n
+        \nAddress - CM Plaza , Kalali Road, Atladara, Vadodara - 390012
+        \n(Near COLLABERA)\n
+        \nYear of Establishment - 2020\n
+        \nMode of Payment - Visa/Master card
+        \nNet Banking/Rupay
+        \nCash
+        \nUPI
+    </string>
+
+    \\grocery 3
+    <string name="meera">
+        \nContacts - 0265-2481009\n
+        \nBusiness Hours - Open Until 11:00 PM\n
+        \nAddress - CM Plaza , Kalali Road, Atladara, Vadodara - 390012
+        \n(Near COLLABERA)\n
+        \nYear of Establishment - 2020\n
+        \nMode of Payment - Visa/Master card
+        \nNet Banking/Rupay
+        \nCash
+        \nUPI
+        \nCheque\n
+        \nWebsite - www.freshbaqala.com
+</string>
+
+    \\grocery 4
+    <string name="edit">
+        \nContacts - 0265-2481098\n
+        \nBusiness Hours - Open Until 10:30 PM\n
+        \nAddress - E/3/4/5 Bhagwat nagar, Vadodara, Sama Road, Vadodara - 390002 (Near New Sama Road)\n
+        \nYear of Establishment - 2018\n
+        \nMode of Payment - Visa/Master card
+        \nNet Banking
+        \nCash
+        \nUPI/Rupay
+        \nCheque\n
+        \nWebsite - www.zsupermarket.com
+</string>
+
+    \\grocery 5
+    <string name="light">
+        \nContacts - 02652481124\n
+        \nBusiness Hours - Open Until 10:00 PM\n
+        \nAddress - Matrix Mall, Sardar Nagar, Vadodara, Gujarat, Nizampura, Vadodara - 390002\n
+        \nYear of Establishment - 2018\n
+        \nMode of Payment - Visa/Master card
+        \nNet Banking
+        \nCash
+        \nUPI/Rupay
+        \nCheque\n
+        \nWebsite - starbazaarindia.com
+</string>
+
+    //Restaurant 1
+    <string name="cam">
+        \nBusiness Summary - Leading Indian retain chain in wide product range for consumers\n
+        \nContacts - 1800102738\n
+        \nBusiness Hours - Open Until 10:00 PM\n
+        \nAddress - Girikendra, Waghodia Road, Vadodara - 390019\n
+        \nYear of Establishment - 2019\n
+        \nMode of Payment - Visa/Master card
+        \nCash\UPI\n
+        \nWebsite - www.relianceretail.com
+    </string>
+
+    //Restaurant 2
+    <string name="view">
+        \n\nContacts - 09016328580\n
+        \nBusiness Hours - Open Until 11:00 PM\n
+        \nAddress - CM Plaza , Kalali Road, Atladara, Vadodara - 390012
+        \n(Near COLLABERA)\n
+        \nYear of Establishment - 2020\n
+        \nMode of Payment - Visa/Master card
+        \nNet Banking/Rupay
+        \nCash
+        \nUPI
+    </string>
+
+    \\Restaurant 3
+    <string name="mee">
+        \nContacts - 0265-2481009\n
+        \nBusiness Hours - Open Until 11:00 PM\n
+        \nAddress - CM Plaza , Kalali Road, Atladara, Vadodara - 390012
+        \n(Near COLLABERA)\n
+        \nYear of Establishment - 2020\n
+        \nMode of Payment - Visa/Master card
+        \nNet Banking/Rupay
+        \nCash
+        \nUPI
+        \nCheque\n
+        \nWebsite - www.freshbaqala.com
+</string>
+
+    //Restaurant 4
+    <string name="todoy">
+        \nContacts - 0265-2481098\n
+        \nBusiness Hours - Open Until 10:30 PM\n
+        \nAddress - E/3/4/5 Bhagwat nagar, Vadodara, Sama Road, Vadodara - 390002 (Near New Sama Road)\n
+        \nYear of Establishment - 2018\n
+        \nMode of Payment - Visa/Master card
+        \nNet Banking
+        \nCash
+        \nUPI/Rupay
+        \nCheque\n
+        \nWebsite - www.zsupermarket.com
+</string>
+
+    //Restaurant 5
+    <string name="yesterday">
+        \nContacts - 02652481124\n
+        \nBusiness Hours - Open Until 10:00 PM\n
+        \nAddress - Matrix Mall, Sardar Nagar, Vadodara, Gujarat, Nizampura, Vadodara - 390002\n
+        \nYear of Establishment - 2018\n
+        \nMode of Payment - Visa/Master card
+        \nNet Banking
+        \nCash
+        \nUPI/Rupay
+        \nCheque\n
+        \nWebsite - starbazaarindia.com
+</string>
+
+</resources>
+

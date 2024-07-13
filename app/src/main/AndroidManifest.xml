@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:label="Handy Helper"
+        android:supportsRtl="true"
+        android:theme="@style/Base.Theme.MyApplication"
+        tools:targetApi="31">
+        <activity
+            android:name=".Second_Activity2"
+            android:exported="false" />
+        <activity
+            android:name=".InsuranceArticlesDetailsActicity"
+            android:exported="false" />
+        <activity
+            android:name=".InsuranceActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Hospital_Acticity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Restaurant_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Food_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Water_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Movers_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Maid_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Rent_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Buy_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Electrician_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Community_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Carpenter_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Painter_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".HousingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Second_Activity_edu"
+            android:exported="false" />
+        <activity
+            android:name=".Second_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Education"
+            android:exported="false" />
+        <activity
+            android:name=".homeActicity1"
+            android:exported="false" />
+        <activity
+            android:name=".DoctorDetailsInfoActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".RegisteForDoctorsActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".LoginForDoctorsActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".HealthArticlesDetailsActicity"
+            android:exported="false" />
+        <activity
+            android:name=".HealthArticlesActicity"
+            android:exported="false" />
+        <activity
+            android:name=".BuyMedicineBookActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".CartBuyMedicineActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".BuyMedicineDetailsActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".BuyMedicineActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".OrderDetailsMainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".LabTestBookActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".CartLabActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".labTestDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LabTestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookAppointmentActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".DoctorDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FindDoctorActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".homeActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Registeractivity"
+            android:exported="false" />
+        <activity android:name=".loginActivity2" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

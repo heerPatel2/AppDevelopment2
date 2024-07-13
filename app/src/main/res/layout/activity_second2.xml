@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Second_Activity2">
+
+    <ImageView
+        android:id="@+id/sec_img2"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/baqalafresh"/>
+
+    <TextView
+        android:id="@+id/sec_title_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="Hello"
+        android:textAllCaps="false"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/sec_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hospital Details"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/fourth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="24/7"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/fifth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Address"
+        android:textSize="22dp"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/sixth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vadodara, Gujarat"
+        android:textSize="20dp"
+        android:layout_marginLeft="10dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/seven"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact"
+        android:layout_marginTop="5dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/nine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="9512419089"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/eleven"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Treatment"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/twelve"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Surgery Neurology Gynecology Pediatrics"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+    <TextView
+        android:id="@+id/twelveee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dermatology Urology Pathology Radiology"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/thirteen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Doctors"
+        android:layout_marginLeft="10dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/fourteene"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr Hiral Mehta"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+    <TextView
+        android:id="@+id/fourteenee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr Vakhat Parmar"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/fourteeneee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dr Nitin Agrawal"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+
+    <TextView
+        android:id="@+id/fiftee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Facilities"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/sixteen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Well-Equipped"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+    <TextView
+        android:id="@+id/sixteenbbbb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pharmacy"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+    <TextView
+        android:id="@+id/sixteennn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="24/7 Emergency"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/seventeennnn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fee Details"
+        android:layout_marginLeft="10dp"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/eighteennn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rs 2500 to 100000"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#000"/>
+
+
+</LinearLayout>

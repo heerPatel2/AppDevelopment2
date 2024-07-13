@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Second_Activity_edu">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:padding="8dp"
+            android:scaleType="centerCrop"
+            tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+        <TextView
+            android:id="@+id/sec_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="new"
+            android:textSize="22dp"
+            android:layout_marginTop="1dp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/third_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="School Details"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/fourth_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Open Now until 5:00 pm"
+            android:textSize="20dp"
+            android:paddingLeft="10dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/fifth_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Address"
+            android:textSize="22dp"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/sixth_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vadodara, Gujarat"
+            android:textSize="20dp"
+            android:layout_marginLeft="10dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/seven_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contact"
+            android:layout_marginTop="5dp"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/nine_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9512419089"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/eleven_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Curriculum"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/twelve_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CBSE ICSE GSGSEB"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/thirteen_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Medium(s) of Instruction"
+            android:layout_marginLeft="10dp"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/fourteen_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="English"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/fifteen_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Level of Schooling"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/sixteen_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kindergarten to Higher Secondary"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/seventeen_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fee Details"
+            android:layout_marginLeft="10dp"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/eighteen_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rs 25000/Year to 90000/Year"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/nineteen_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Admission Details"
+            android:layout_marginLeft="10dp"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+        <TextView
+            android:id="@+id/twenty_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Starting from June 4, 2024"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:textColor="#000"/>
+
+    </LinearLayout>
+
